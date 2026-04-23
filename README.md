@@ -1,4 +1,5 @@
-# loglp_ee_lazaro_sem8
+# Aula ministrada em EE Lazaro - Limeira
+# Prof. Emerson Passarin - Técnico de Desenvolvimento de Sistemas
 Atividades de Logica de Programação no Google Colab EE Lazaro
 
 # Atividades Práticas - 2º Ano Ensino Médio
